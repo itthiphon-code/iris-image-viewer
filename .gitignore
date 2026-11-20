@@ -1,0 +1,20 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# ผลลัพธ์จาก build-app.sh / build-watch.sh
+build/
+build.log
+build.status
+build.env
+launch.log
+package.log
+package.status
+.rebuild
+.launch
+
+# macOS / Xcode
+.DS_Store
+xcuserdata/
+DerivedData/
